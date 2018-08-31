@@ -21,7 +21,7 @@ Since you don't have any files in your home directory, let's begin!
 #### Clone the repo:
 
 ```
-git@github.com:gabriben/EmacsforStatistics
+git clone git@github.com:gabriben/EmacsforStatistics
 ```
 
 Then enter in repo directory:
