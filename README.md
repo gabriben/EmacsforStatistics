@@ -2,6 +2,7 @@
 
 Emacs Fast Start
 ----------------
+(process copied from https://github.com/squiter/emacs-fast-start/blob/master/README.md)
 
 This repo is proposed to help users to start using Emacs editor. In this code I choose the essential packages and configurations to have a happy start with this amazing editor.
 
