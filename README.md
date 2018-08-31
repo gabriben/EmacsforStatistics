@@ -21,13 +21,13 @@ Since you don't have any files in your home directory, let's begin!
 #### Clone the repo:
 
 ```
-git@github.com:squiter/emacs-fast-start.git
+git@github.com:gabriben/EmacsforStatistics
 ```
 
 Then enter in repo directory:
 
 ```
-cd emacs-fast-start
+cd EmacsforStatistics
 ```
 
 Then make it:
